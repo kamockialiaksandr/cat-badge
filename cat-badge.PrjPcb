@@ -100,7 +100,136 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document4]
+DocumentPath=Cat_badge.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
+DocumentPath=Project Outputs for cat-badge\Gerber\Gerber\01_Top_Overlay_Silk.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Free Documents\Gerber\01_Top_Overlay_Silk.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for cat-badge\Gerber\Gerber\02_Top_Paste_Mask.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Free Documents\Gerber\02_Top_Paste_Mask.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for cat-badge\Gerber\Gerber\03_Top_Solder_Mask.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Free Documents\Gerber\03_Top_Solder_Mask.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for cat-badge\Gerber\Gerber\04_Top_ComponentSide.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Free Documents\Gerber\04_Top_ComponentSide.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for cat-badge\Gerber\Gerber\05_Bottom_ComponentSide.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Free Documents\Gerber\05_Bottom_ComponentSide.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for cat-badge\Gerber\Gerber\06_Bottom_Solder_Mask.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Free Documents\Gerber\06_Bottom_Solder_Mask.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for cat-badge\Gerber\Gerber\07_Bottom_Paste_Mask.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Free Documents\Gerber\07_Bottom_Paste_Mask.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for cat-badge\Gerber\Gerber\08_Bottom_Overlay_Silk.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Free Documents\Gerber\08_Bottom_Overlay_Silk.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for cat-badge\Gerber\Gerber\09_Board_Outline.GM
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Free Documents\Gerber\09_Board_Outline.GM
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for cat-badge\BOM\Bill of Materials-cat-badge2 PCB.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for cat-badge\Gerber\NC Drill\cat-badge2 PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Free Documents\Gerber\cat-badge2 PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for cat-badge\Gerber\Gerber\cat-badge2 PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for Free Documents\Gerber\cat-badge2 PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for cat-badge\Gerber\NC Drill\cat-badge2 PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for Free Documents\Gerber\cat-badge2 PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for cat-badge\Gerber\Gerber\cat-badge2 PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for Free Documents\Gerber\cat-badge2 PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for cat-badge\STEP\cat-badge2 PCB.step
+DItemRevisionGUID=
+
+[GeneratedDocument29]
 DocumentPath=Project Outputs for cat-badge\Design Rule Check - cat-badge2 PCB.html
 DItemRevisionGUID=
 

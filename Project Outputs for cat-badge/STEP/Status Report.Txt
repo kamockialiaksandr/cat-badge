@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 16:49:08 On 10.05.24
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [cat-badge2 PCB.PcbDoc]
+   Generated File[cat-badge2 PCB.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 16:49:10 On 10.05.24

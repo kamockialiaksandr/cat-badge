@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 16:50:56 On 10.05.24
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of PCB Document [cat-badge2 PCB.PcbDoc]
+   Generated File[Bill of Materials-cat-badge2 PCB.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 16:51:04 On 10.05.24
